@@ -8,7 +8,7 @@ I have been learning coding for more than 3 years and have a passionate to build
 
 * 🌍  I'm based in Munich, Germany
 * ✉️  You can contact me at [huethangnhat@gmail.com](mailto:huethangnhat@gmail.com)
-* 🧠  I'm learning Web development and improving my skills in coding in Python and Java :)
+* 🧠  I'm studying at University, self learning Web development and improving my coding skills in Python and Java :)
 * ⚡  Coding is fun :)))
 
 ### Skills
