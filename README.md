@@ -1,7 +1,7 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thi Hue Le
 ==================================================================================================================================
 
-B.Sc in Computer Science Student at TUM
+Computer Science Student at TUM
 ---------------------------------------
 
 I'm a Computer Science student at TUM (Technical University of Munich). I've been on a coding journey for more than 3 years, exploring various aspects of software development. I have a passion for building small projects, whether it's a web app, a Python script, or a game – coding is my creative outlet!
@@ -24,11 +24,7 @@ I love sharing my coding adventures! Check out my [GitHub repositories](https://
 
 Feel free to connect with me, discuss coding topics, or collaborate on exciting projects. Let's make coding more awesome together! 🚀
                     
-                  
-### Socials
-
-<p align="left"> <a href="https://www.github.com/ThiHueLe16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
+                
 ### Badges
 
 <a href="https://github.com/ThiHueLe16" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiHueLe16&langs_count=10&title_color=facc15&text_color=facc15&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
