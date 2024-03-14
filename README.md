@@ -4,7 +4,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Computer Science Student at TUM
 ---------------------------------------
 
-I'm a Computer Science student at TUM (Technical University of Munich). I've been on a coding journey for more than 3 years, exploring various aspects of software development. I have a passion for building small projects, whether it's a web app, a Python script, or a game – coding is my creative outlet!
+I'm a Computer Science student at TUM (Technical University of Munich). I've been on a coding journey for more than 3 years. I have a passion for building small projects, whether it's a web app, a Python script, or a game – coding is my creative outlet!
 ## About Me
 *   🌍  I'm based in Munich, Germany.
 *   📚 Studying for a B.Sc in Computer Science at TUM.
