@@ -9,7 +9,7 @@ I'm a Computer Science student at TUM (Technical University of Munich). I've bee
 *   🌍  I'm based in Munich, Germany.
 *   📚 Studying for a B.Sc in Computer Science at TUM.
 *   🌱 Self-taught in web development, Python, and constantly learning new things.
-*   🚀 Coding side projects, apps, and games is where the fun begins for me :)
+*   🚀 Coding side projects, apps, and games is where the fun begins for me :).
 
 ## Contact
 - ✉️ Email: [huethangnhat@gmail.com](mailto:huethangnhat@gmail.com)
