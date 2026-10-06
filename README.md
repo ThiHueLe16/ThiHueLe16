@@ -7,7 +7,7 @@ M.Sc. Informatik Student at TUM
 I'm a Computer Science student at TUM (Technical University of Munich). 
 ## About Me
 *   🌍  I'm based in Munich, Germany
-*   📚 Studying for a B.Sc in Computer Science at TUM.
+*   📚 Studying for a M.Sc. in Computer Science at TUM.
 *   🌱 Self-taught in web development, Python, and constantly learning new things.
 *   🚀 Coding side projects, apps, and games is where the fun begins for me :)
 
